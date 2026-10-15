@@ -1,0 +1,50 @@
+{
+  "account": "candoreditions",
+  "account_id": "17841432704082152",
+  "canonical_book_url": "https://www.amazon.com/dp/B0DNN1JF56",
+  "public_image_base": "https://raw.githubusercontent.com/goislandadventures/candor-editions-opal-instagram/main/",
+  "posts": [
+    {
+      "slug": "meet-opal",
+      "status": "published",
+      "date": "2026-10-15T01:29:28Z",
+      "instagram_media_id": "17872176432640522",
+      "instagram_url": "https://www.instagram.com/p/Defx7vBiKsV/",
+      "caption_path": "carousels/01_Meet_Opal/caption.txt",
+      "images": [
+        "carousels/01_Meet_Opal/Opal_01_Slide_01_Page_01.jpg",
+        "carousels/01_Meet_Opal/Opal_01_Slide_02_Page_02.jpg",
+        "carousels/01_Meet_Opal/Opal_01_Slide_03_Page_07.jpg",
+        "carousels/01_Meet_Opal/Opal_01_Slide_04_Page_31.jpg"
+      ]
+    },
+    {
+      "slug": "little-lessons",
+      "status": "ready",
+      "caption_path": "carousels/02_Little_Lessons/caption.txt",
+      "images": [
+        "carousels/02_Little_Lessons/Opal_02_Slide_01_Page_03.jpg",
+        "carousels/02_Little_Lessons/Opal_02_Slide_02_Page_08.jpg",
+        "carousels/02_Little_Lessons/Opal_02_Slide_03_Page_23.jpg",
+        "carousels/02_Little_Lessons/Opal_02_Slide_04_Page_15.jpg"
+      ]
+    },
+    {
+      "slug": "look-inside",
+      "status": "ready",
+      "caption_path": "carousels/03_Look_Inside/caption.txt",
+      "images": [
+        "carousels/03_Look_Inside/Opal_03_Slide_01_Page_05.jpg",
+        "carousels/03_Look_Inside/Opal_03_Slide_02_Page_13.jpg",
+        "carousels/03_Look_Inside/Opal_03_Slide_03_Page_21.jpg",
+        "carousels/03_Look_Inside/Opal_03_Slide_04_Page_25.jpg",
+        "carousels/03_Look_Inside/Opal_03_Slide_05_Page_29.jpg"
+      ]
+    }
+  ],
+  "guidelines": [
+    "Check the live Instagram account before posting and never duplicate a published media ID or caption.",
+    "Instagram must fetch public HTTPS JPEG URLs in valid Instagram dimensions.",
+    "Persist only confirmed publishes to this manifest."
+  ]
+}
