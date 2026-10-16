@@ -19,10 +19,19 @@ Purpose: Track confirmed posts, Stories, selective audience-building actions, an
 - **New follows:** None verified through a follow-capable authenticated session in this run; do not treat research leads as followed.
 - **Next feed carousel:** `03_Look_Inside` remains unpublished; schedule on a different day. Do not duplicate `01_Meet_Opal` or `02_Little_Lessons`.
 
+
+## 2026-10-16 (America/New_York)
+
+- **Feed image post published:** Original Opal book illustration from `carousels/03_Look_Inside/Opal_03_Slide_01_Page_05.jpg`, with fresh caption introducing Opal's underwater adventures, ages 4–8, and link-in-bio call to action. Instagram publishing response confirmed media ID `18034015544850937`. A five-image carousel attempt failed before publication, so only the single-image post is counted.
+- **Story published:** Different original book illustration `carousels/03_Look_Inside/Opal_03_Slide_02_Page_13.jpg`, Instagram publishing response confirmed media ID `18022996880719006`. Do not duplicate this Story.
+- **Audience follows:** None newly verified in this run. Direct Instagram publishing integration does not expose follow; both signed-in desktop devices were offline. Do not infer follows from aggregate following count.
+- **Publishing verification:** Both Instagram write actions returned success and media IDs. Media permalink not returned by API at this time.
+- **Content protection:** Do not repost today's image or Story; three remaining Look Inside carousel images are available for future original content. Do not post the full five-image carousel unchanged after this single-image post without revising it to avoid duplication.
+
 ## Next actions
 
 - Avoid repeating any content or follow above. Check whether Stories are live/expired and assess engagement.
 - Research fewer, high-fit genuine kidlit/educator profiles and selectively follow via Chrome only if account access is available; the Instagram API has no follow action.
-- Use public repo's original content to post `02_Little_Lessons` and `03_Look_Inside` on different days.
+- Both `02_Little_Lessons` and a single image from `03_Look_Inside` have now been published. Plan the next distinct post from remaining artwork.
 - Create additional 9:16 Story media from actual book art and host it under `stories/` before posting; Stories expire in 24 hours.
 - Monitor actual reach, relevant responses, saves, shares, profile visits, Amazon profile link taps and independently verified sales. Do not count new follows of other accounts as gained followers or guaranteed customers.
