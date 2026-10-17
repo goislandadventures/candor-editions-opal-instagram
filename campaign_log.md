@@ -31,6 +31,16 @@ Purpose: Track confirmed posts, Stories, selective audience-building actions, an
 - **Research exclusions:** @kidlitcrafts is private and recent posts cannot be checked; @hereweread resolved to an unrelated Chinese-language general reading account; @babylibrarians profile unavailable; @kidlitexchange retired April 2021. Do not follow these merely to fill quota.
 - **Access blocker:** Desktop Commander reported monthly usage at 99% and then blocked further calls on October 16. Chrome remains signed in but not remotely operable through that integration until allowance resets. Instagram direct API still supports publication and analytics, not follows.
 
+
+## 2026-10-17 (America/New_York)
+
+- **Story actually published and verified:** An unused original book illustration from `carousels/03_Look_Inside/Opal_03_Slide_04_Page_25.jpg` published to @candoreditions via Windsor Instagram `create_story`. Instagram media ID `18108395434945611`; second independent read through `story_id` and `story_timestamp` confirmed at `2026-10-17T13:44:48+0000` (9:44:48 AM EDT). Initial reach/views 0, normal for a freshly published Story. DO NOT duplicate.
+- **Feed post:** None published October 17. The previous day's [Look Inside image](https://www.instagram.com/p/DejptRXjk2-/) was confirmed still live via Instagram `media_id` readback, 6 unique accounts reached and 3 likes in the available snapshot.
+- **Comment moderation verified:** Hid three promotional solicitations on the prior feed post via Instagram `hide_comment`: IDs `18338461456276516`, `18067839413782245`, `18134919937739300`. All three actions returned confirmation; reversible with `unhide_comment`. No genuine reader questions among the three.
+- **Profile metrics:** 16 followers (+1 from October 14 baseline 15, unchanged since October 16); 47 following; 7 profile media. No verified sales or new user follow-backs today.
+- **New verified follows today:** **0 of daily target 20**. Island_Adv device checked **ONLINE**, user confirmed @candoreditions signed in to Chrome. Remote Desktop Commander reported **0% of monthly tool calls remaining**, and an attempted command produced the explicit quota-block error; Chrome-follow actions were not possible. Windsor Instagram direct connector supports publishing/moderation but NOT following. Do not treat researched candidates or previous October 16 follows as today's follows. Do not request reconnect: device remains paired. No paid plan authorized.
+- **Next available content:** Unused Look Inside artwork pages 21 and 29; keep 25 as a used Story, pages 5 and 13 were published October 16. Avoid duplicate feed and Story images.
+
 ## Next actions
 
 - Avoid repeating any content or follow above. Check whether Stories are live/expired and assess engagement.
